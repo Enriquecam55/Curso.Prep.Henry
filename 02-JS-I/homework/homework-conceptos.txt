@@ -1,0 +1,24 @@
+Homework Conceptos
+
+* Variales:
+  Caja o contenedor donde se reciben o guardan objetos o varlores para poder usarlo cuando lo queramos.
+
+
+* Strings:
+  Son palabras, caracteres o texto para definir una variable que se identifica y usa en comillas. 
+  Los strings pueden ser numero o letras o caracteres dentro de las comillas.
+
+
+* Funciones: (argumentos, `return`)
+  Las funciones nos permiten ejecutar codigos y rehusarlos, poder usar los codigos cuando queramos.
+  Las funciones pueden tener argumentos, son variables que declaramos dentro de la funcion que van a tomar un valor cuando se invoque la funcion.
+  Return se usa para retornar un valor.
+
+* Declaraciones `if`
+  Condicional Si, es una expresion que se convierte en verdadero o falso.
+
+
+* Valores booleanos (`true`, `false`)
+  Son valores que se identifican como verdadero y falso
+  para validar informacion dentro de las variables.
+ 
