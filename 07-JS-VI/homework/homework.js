@@ -73,7 +73,7 @@ function map(array, cb) {
   var newArray = array.map(function (elemento) {
     return cb(elemento)
   })
-  return newArray;
+  return newArgit ray;
 }
 
 function filter(array) {

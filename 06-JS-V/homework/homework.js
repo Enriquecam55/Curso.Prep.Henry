@@ -42,7 +42,6 @@ function agregarStringInvertida() {
     }
     return stringInvertida;
   }
- 
 }
 
 // ---------------------------------------------------------------------------//

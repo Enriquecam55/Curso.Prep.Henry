@@ -1,0 +1,38 @@
+h1 {
+  color: mediumblue;
+}
+
+img {
+  width: 400px;
+  border-radius: 30px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(fondook.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+#thirdDiv {
+  width: 500px;
+  height: 600px;
+  background-color: rgb(251, 251, 230);
+  padding: 50px;
+  border: rgb(245, 189, 189);
+  border-style: inset;
+  border-width: 20px;
+  border-radius: 30px;
+  margin: 0 auto;
+}
+
+.divClass {
+  margin: 0 auto;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
