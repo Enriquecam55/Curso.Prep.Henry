@@ -1,0 +1,21 @@
+Homework: Javascript VI
+
+Conceptos:
+
+
+Funciones Callback
+
+Es una funcion que se va a ejecutar despues de que otra lo haga.
+
+Es el mecanismo por excelencia que tiene Javascript para invocar algunas de sus funciones.
+
+Se utiliza cuando una funcion pasa a otra funcion como un argumento. 
+
+ 
+
+
+
+
+
+
+

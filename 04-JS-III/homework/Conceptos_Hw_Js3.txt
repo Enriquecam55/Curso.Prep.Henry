@@ -1,0 +1,19 @@
+Homework: Javascript III
+
+Conceptos:
+
+Arrays :
+
+Array o Arreglo es una coleccion de elementos como strings, boleanps, numeros, etc. y acceder a ellas de manera independiente, ejemplo:
+
+var a = [1, true, "Hola", ["A", "B", "C"]]
+
+cons b = ["enero", "febrero", "marzo", "abril", "mayo"]
+
+
+Para poder elegir un elemento dentro del array empieza con el numero de posicion 0. por ejemplo.
+
+Si quiero elegir el elemento enero de la cons b lo hacemos de la siguente manera.
+
+b[0]
+

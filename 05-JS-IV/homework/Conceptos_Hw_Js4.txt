@@ -1,0 +1,58 @@
+Homework: Javascript IV
+
+Conceptos:
+
+
+Objetos:
+Es un elemento que tiene diferente propiedades que tiene diferentes atributos o valores.
+
+por ejemplo la variable car tiene diferentes propiedades y atributos
+
+var car = { marca: "Lexus", modelo: "RX 450hL", color:"Rojo"}
+
+
+
+
+Propiedades:
+Las propiedades de un objeto definen las características del objeto
+
+En el ejemplo anterior, las propidades del objeto car serian, la marca, modelo, color
+
+
+
+
+Métodos:
+Un metodo es a una funcion que esta dentro de una propiedad del objeto que afectan a todos los objetos.
+Podemos definir varios métodos que son instrucciones que pueden cambiar los valores que hemos asignado a esas propiedades.
+
+		
+
+
+
+
+Bucle `for…in`:
+
+Con este bucle podemos recorre todas las propiedades presentes en un objeto.
+Mediante esta estructura de control podremos obtener los nombres de las propiedades junto con sus valores y es independiente del número de propiedades que se encuentre en el objeto que estamos recorriendo y es independiente también de sus nombres de propiedad o sus valores. 
+
+
+
+
+
+Notación de puntos vs notación de corchetes:
+
+Son los modos de acceder a las propiedades de un objeto, por puntos y por corchetes.
+
+
+Notación de puntos
+
+La notacion depuntos nos permite hacer que por cada nivel es un punto.
+Los puntos requieren que los siguientes operandos sean identificadores legales (es decir, nombres de variables legales) y no se pueden usar para los ilegales.
+
+
+Notación de corchetes:
+
+Para reducir la cantidad de código, a veces necesita usar el nombre de la variable como un atributo del objeto para facilitar la llamada.
+Lo que requieren los corchetes es una cadena, no necesariamente un nombre de variable legal.
+
+

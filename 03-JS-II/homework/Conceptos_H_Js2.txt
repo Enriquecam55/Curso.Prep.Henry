@@ -1,0 +1,45 @@
+Homework: Javascript II
+
+Conceptos:
+
+for :
+
+Es un bucle (loop) son utilizados para realizar tareas repetitivas con base en una condición.
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces.
+
+`&&`, `||`, `!` :
+
+Operadores Logicos, son operadores que comparan valores boleanos y devuelven valores boleanos
+
+Los valores boleanos son representados por un valor de verdad; es decir, TRUE o FALSE.
+
+Los Operadores Logicos en Javascript son && (And),  || (Or), ! (Not)  y estan vinculados con  las tablas de la Verdad
+
+
+&& (And) (y): 
+Este operador lógico compara dos expresiones. Si la primera se evalúa como "verdadera" (truthy), la sentencia devolverá el valor de la segunda expresión. Si la primera expresión se evalúa como "falsa"(falsy), la sentencia devolverá el valor de la primera expresión.
+Cuando solo se incluyen valores booleanos (true o false), se devuelve verdadero si las dos expresiones son verdaderas. Si una o ambas expresiones son falsas, la sentencia completa se devolverá como falsa.
+
+true && true 	= true
+true && false 	= false
+false && true	= false
+false && false	= false
+
+
+|| (Or) (o):
+Este operador lógico compara dos expresiones. Si la primera se evalúa como "falsa", la sentencia devolverá el valor de la segunda expresión. Si la primera se evalúa como "verdadera", la sentencia devolverá el valor de la primera expresión.
+Cuando solo se incluyen valores booleanos (true o false), se devuelve como true si cualquiera de las dos expresiones son verdaderas. Ambas expresiones pueden ser verdaderas, pero solo se necesita una para que el resultado sea verdadero.
+
+true || true 	= true
+true || false 	= true
+false || true	= true
+false || false	= false	
+
+
+
+! (not) (no):
+El operador lógico NOT no realiza ninguna comparación como lo hacen los operadores AND y OR. Además, se opera en solo un operando.
+Se utiliza un símbolo "!" (signo de exclamación) para representar un operador NOT.
+
+!true 	= false
+!false	= true

@@ -1,0 +1,29 @@
+Homework: Javascript V
+
+Conceptos:
+
+
+
+`prototype` :
+
+Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+JavaScript es a menudo descrito como un lenguaje basado en prototipos - para proporcionar mecanismos de herencia, los objetos pueden tener un objeto prototipo, el cual actúa como un objeto plantilla que hereda métodos y propiedades.
+Es un objeto de delegacion utilizado para implementar la herencia basada en prototipos. 
+Cuando se crea cada objeto recibe su prototipo. Si el prototipo no esta esblecido especificamente, los objetos reciben un prototipo predeterminado con su objeto de herencia.
+
+
+
+_Constructors_ (de Clases) :
+  
+Una clase es un modelo a seguir 
+
+Una funcion esta diseñada para crear objetos a partir de una base.
+
+Son funciones que a partir de ellas vamos a crear otros objetos.
+
+la funcion contructora va a tener las propiedadess que luego van a adquirir todos los objetos que sean creadas.
+
+
+
+
+

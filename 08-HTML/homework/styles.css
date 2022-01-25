@@ -1,7 +1,13 @@
 h1 {
   color: mediumblue;
+  text-align: center;
 }
-
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
 img {
   width: 400px;
   border-radius: 30px;
@@ -29,10 +35,16 @@ body {
 }
 
 .divClass {
+  width: 700px;
+  height: 150px;
   margin: 0 auto;
 }
 
 #spanId {
   font-size: 18px;
   margin: 50px;
+  text-align: center;
+}
+a {
+  text-align: center;
 }
